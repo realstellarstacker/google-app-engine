@@ -8,7 +8,7 @@ def hello():
     a = 10
     b = 20
     c = a + b 
-    return f"The result is  : {a + b}
+    return f"The result is  : {a + b}"
 
 
 if __name__ == "__main__":
