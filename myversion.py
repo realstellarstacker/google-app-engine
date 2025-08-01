@@ -7,8 +7,7 @@ app = Flask(__name__)
 def hello():
     a = 10
     b = 20
-    print("a + b ", a + b )
-    return "Hello World!"
+    return (a + b)
 
 
 if __name__ == "__main__":
